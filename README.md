@@ -1,6 +1,6 @@
 # EV Charging Station Locator
 
-![A visual of what the application looks like](![CarCharger](https://user-images.githubusercontent.com/98873974/174431396-acd55fca-936b-4c7c-bdd2-81f650354792.png)
+![A visual of what the application looks like](https://user-images.githubusercontent.com/98873974/174431396-acd55fca-936b-4c7c-bdd2-81f650354792.png
 )
 - View GitHub [Repo](https://github.com/Ofelia1870/charging-station-finder)
 - View [Webpage](https://ofelia1870.github.io/charging-station-finder/)
